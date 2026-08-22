@@ -13,50 +13,78 @@
 
 <div align="center">
 
-<!-- Animated Top Wave — Stitch Design System Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:0e1418,40:161c21,60:1a2025,80:238636,100:7bdb80&height=120&section=header&animation=twinkling"/>
+<!-- ██████  ANIMATED HERO HEADER  ██████ -->
+<!-- Full-width gradient banner with embedded title + subtitle -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,15:0e1418,30:112b1a,50:238636,70:30a14e,85:7bdb80,100:b5f5b8&height=300&section=header&text=☕%20Java%20Problem%20Solving%20Portfolio&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20curated%20collection%20of%20LeetCode%20solutions%20%E2%80%94%20pattern-based%20%C2%B7%20clean%20code%20%C2%B7%20interview-ready&descSize=16&descAlignY=55&descAlign=50&fontAlign=50&stroke=238636&strokeWidth=1"/>
 
 <br/>
 
-<!-- Stitch-Designed Hero Banner -->
-<img src="./assets/banner.png" alt="Java Problem Solving Portfolio — Cold Java Banner" width="100%"/>
+<!-- Hero Content: Coding GIF + Typing Animation side by side -->
+<table>
+<tr>
+<td align="center" valign="middle" width="40%">
+
+<!-- Animated Coding GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQwNnFrcnNzN3NrMXN6Ynl3bGt2NGNzbjk4eWtrOXQ2NHpjYm1reSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
+
+</td>
+<td align="center" valign="middle" width="60%">
+
+<!-- Multi-line Typing Animation -->
+<a href="https://github.com/Ayushgupta0511/Leetcode_solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=7BDB80&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=%E2%98%95+JAVA+%C2%B7+DSA+%C2%B7+PATTERNS;Grinding+LeetCode+Daily+%F0%9F%94%A5;GRIND+75+%2B+GRIND+100+%F0%9F%8E%AF" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Animated subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=true&width=420&height=30&lines=Hash+Maps+%C2%B7+Two+Pointers+%C2%B7+Dynamic+Programming+%C2%B7+Trees+%C2%B7+Graphs" alt="Patterns" />
 
 <br/><br/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/Ayushgupta0511/Leetcode_solutions">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7BDB80&center=true&vCenter=true&repeat=true&width=600&lines=Curated+Java+Solutions+for+LeetCode+%E2%98%95;Pattern-Based+Problem+Solving+%F0%9F%A7%A0;GRIND+75+%2B+GRIND+100+Tracker+%F0%9F%8E%AF;Clean+Code+%C2%B7+Optimal+Solutions+%E2%9A%A1" alt="Typing SVG" />
+<!-- Profile + LeetCode Links -->
+<a href="https://leetcode.com/Ayushgupta0511/" target="_blank">
+  <img src="https://img.shields.io/badge/My_LeetCode-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
 </a>
+&nbsp;
+<a href="https://github.com/Ayushgupta0511" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ayushgupta0511-238636?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ██████  STATS DASHBOARD  ██████ -->
+<!-- Prominent stats in a visual row -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TOTAL_SOLVED-3-238636?style=for-the-badge&labelColor=161b22&logo=leetcode&logoColor=7bdb80"/>
+  <img src="https://img.shields.io/badge/TOTAL_SOLVED-3-238636?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=7bdb80" alt="Total"/>
+</picture>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🟢_EASY-3-238636?style=for-the-badge&labelColor=0d1117" alt="Easy"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🟡_MEDIUM-0-e4b200?style=for-the-badge&labelColor=0d1117" alt="Medium"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🔴_HARD-0-bf4d72?style=for-the-badge&labelColor=0d1117" alt="Hard"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/☕_JAVA-17+-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java"/>
 
 <br/><br/>
 
-<!-- Quick Stats Badges -->
-<a href="https://github.com/Ayushgupta0511/Leetcode_solutions">
-  <img src="https://img.shields.io/badge/Total_Solved-3-238636?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=7bdb80" alt="Total Solved"/>
-</a>
+<!-- Dynamic Repo Meta — These auto-update! -->
+<img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=⏱️%20Last%20Commit" alt="Last Commit"/>
 &nbsp;
-<a href="https://github.com/Ayushgupta0511/Leetcode_solutions/tree/main/LeetCode/Java/Easy">
-  <img src="https://img.shields.io/badge/Easy-3-238636?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=7bdb80" alt="Easy"/>
-</a>
+<img src="https://img.shields.io/github/commit-activity/w/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=30a14e&labelColor=0d1117&label=📅%20This%20Week" alt="Weekly Commits"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Medium-0-e4b200?style=for-the-badge&labelColor=0d1117&logo=stackblitz&logoColor=ffce46" alt="Medium"/>
+<img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=📦%20Size" alt="Repo Size"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Hard-0-bf4d72?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=ffb1c4" alt="Hard"/>
+<img src="https://img.shields.io/github/stars/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=ffce46&labelColor=0d1117&label=⭐%20Stars" alt="Stars"/>
 &nbsp;
-<a href="https://github.com/Ayushgupta0511/Leetcode_solutions">
-  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-</a>
-
-<br/><br/>
-
-<!-- Repo Meta Badges -->
-<img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=Last%20Commit" alt="Last Commit"/>
-&nbsp;
-<img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=Repo%20Size" alt="Repo Size"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=ffce46&labelColor=0d1117&label=Stars" alt="Stars"/>
-&nbsp;
-<img src="https://img.shields.io/github/forks/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=7bdb80&labelColor=0d1117&label=Forks" alt="Forks"/>
+<img src="https://img.shields.io/github/forks/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=7bdb80&labelColor=0d1117&label=🍴%20Forks" alt="Forks"/>
 
 </div>
 
