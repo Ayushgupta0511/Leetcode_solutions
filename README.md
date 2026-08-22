@@ -117,7 +117,7 @@ status: Grinding Daily 🔥
 <tr>
 <td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNheXdsMnFqYnZtMm1wbXU0cnk0M3FvcjR3cjRxcXUwcmtiOHdkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kgUkjJSa0tXIBphmfE/giphy.gif" width="80"/><br/><br/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/><br/><br/>
 <a href="./LeetCode/Java/Easy/">
   <img src="https://img.shields.io/badge/By_Difficulty-238636?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=7bdb80" alt="Difficulty"/>
 </a><br/>
@@ -126,7 +126,7 @@ status: Grinding Daily 🔥
 </td>
 <td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXYyNGRjYjZhYTdtN2NqcjRzdDd6Z3NkNWVkeHV0c2FhZmdvbG52aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="80"/><br/><br/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/><br/><br/>
 <a href="./LeetCode/Patterns/">
   <img src="https://img.shields.io/badge/By_Pattern-7bdb80?style=for-the-badge&labelColor=0d1117&logo=databricks&logoColor=7bdb80" alt="Patterns"/>
 </a><br/>
