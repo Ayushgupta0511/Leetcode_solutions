@@ -52,21 +52,21 @@
 
 <img src="https://img.shields.io/badge/☕_JAVA-17+-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=238636&labelColor=0d1117&label=⏱️%20LAST%20PUSH" alt="Last Commit"/>
+<img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=238636&labelColor=0d1117&logo=github&logoColor=white&label=Last%20Push" alt="Last Commit"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/commit-activity/m/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=30a14e&labelColor=0d1117&label=📅%20THIS%20MONTH" alt="Monthly Commits"/>
+<img src="https://img.shields.io/github/commit-activity/m/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=30a14e&labelColor=0d1117&logo=githubactions&logoColor=white&label=This%20Month" alt="Monthly Commits"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=7bdb80&labelColor=0d1117&label=📦%20SIZE" alt="Repo Size"/>
+<img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=7bdb80&labelColor=0d1117&logo=files&logoColor=white&label=Size" alt="Repo Size"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/stars/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=ffce46&labelColor=0d1117&label=⭐%20Stars" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=ffce46&labelColor=0d1117&logo=starship&logoColor=ffce46&label=Stars" alt="Stars"/>
 &nbsp;
-<img src="https://img.shields.io/github/forks/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=7bdb80&labelColor=0d1117&label=🍴%20Forks" alt="Forks"/>
+<img src="https://img.shields.io/github/forks/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=7bdb80&labelColor=0d1117&logo=git&logoColor=7bdb80&label=Forks" alt="Forks"/>
 &nbsp;
-<img src="https://img.shields.io/github/watchers/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=👀%20Watchers" alt="Watchers"/>
+<img src="https://img.shields.io/github/watchers/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&logo=opsgenie&logoColor=238636&label=Watchers" alt="Watchers"/>
 &nbsp;
-<img src="https://img.shields.io/github/commit-activity/w/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=30a14e&labelColor=0d1117&label=🔥%20This%20Week" alt="Weekly"/>
+<img src="https://img.shields.io/github/commit-activity/w/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=30a14e&labelColor=0d1117&logo=fire&logoColor=ff6b6b&label=This%20Week" alt="Weekly"/>
 
 </div>
 
