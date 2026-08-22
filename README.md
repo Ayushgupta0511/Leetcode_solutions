@@ -46,7 +46,19 @@
 </tr>
 </table>
 
-<br/>
+<!-- Stats Row -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Solved-8_/_75-238636?style=for-the-badge&labelColor=161b22&logo=leetcode&logoColor=7bdb80"/>
+  <img src="https://img.shields.io/badge/Solved-8_/_75-238636?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=7bdb80" alt="Total Solved"/>
+</picture>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Easy-7-30a14e?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=30a14e" alt="Easy"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Medium-1-e4b200?style=for-the-badge&labelColor=0d1117&logo=stackblitz&logoColor=ffce46" alt="Medium"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hard-0-bf4d72?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=ffb1c4" alt="Hard"/>
+
+<br/><br/>
 
 <!-- ██████  DYNAMIC BADGES — ALL AUTO-UPDATE  ██████ -->
 
