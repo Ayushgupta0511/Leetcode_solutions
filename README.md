@@ -7,14 +7,9 @@
      ╚══════╝╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    HERO BANNER                               ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 <!-- ██████  ANIMATED HERO HEADER  ██████ -->
-<!-- Full-width gradient banner with embedded title + subtitle -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,15:0e1418,30:112b1a,50:238636,70:30a14e,85:7bdb80,100:b5f5b8&height=300&section=header&text=☕%20Java%20Problem%20Solving%20Portfolio&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20curated%20collection%20of%20LeetCode%20solutions%20%E2%80%94%20pattern-based%20%C2%B7%20clean%20code%20%C2%B7%20interview-ready&descSize=16&descAlignY=55&descAlign=50&fontAlign=50&stroke=238636&strokeWidth=1"/>
 
 <br/>
@@ -24,25 +19,21 @@
 <tr>
 <td align="center" valign="middle" width="40%">
 
-<!-- Animated Coding GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQwNnFrcnNzN3NrMXN6Ynl3bGt2NGNzbjk4eWtrOXQ2NHpjYm1reSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
 
 </td>
 <td align="center" valign="middle" width="60%">
 
-<!-- Multi-line Typing Animation -->
 <a href="https://github.com/Ayushgupta0511/Leetcode_solutions">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=7BDB80&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=%E2%98%95+JAVA+%C2%B7+DSA+%C2%B7+PATTERNS;Grinding+LeetCode+Daily+%F0%9F%94%A5;GRIND+75+%2B+GRIND+100+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Animated subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=true&width=420&height=30&lines=Hash+Maps+%C2%B7+Two+Pointers+%C2%B7+Dynamic+Programming+%C2%B7+Trees+%C2%B7+Graphs" alt="Patterns" />
 
 <br/><br/>
 
-<!-- Profile + LeetCode Links -->
 <a href="https://leetcode.com/Ayushgupta0511/" target="_blank">
   <img src="https://img.shields.io/badge/My_LeetCode-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
 </a>
@@ -57,34 +48,25 @@
 
 <br/>
 
-<!-- ██████  STATS DASHBOARD  ██████ -->
-<!-- Prominent stats in a visual row -->
+<!-- ██████  DYNAMIC BADGES — ALL AUTO-UPDATE  ██████ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TOTAL_SOLVED-3-238636?style=for-the-badge&labelColor=161b22&logo=leetcode&logoColor=7bdb80"/>
-  <img src="https://img.shields.io/badge/TOTAL_SOLVED-3-238636?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=7bdb80" alt="Total"/>
-</picture>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🟢_EASY-3-238636?style=for-the-badge&labelColor=0d1117" alt="Easy"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🟡_MEDIUM-0-e4b200?style=for-the-badge&labelColor=0d1117" alt="Medium"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🔴_HARD-0-bf4d72?style=for-the-badge&labelColor=0d1117" alt="Hard"/>
-&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/☕_JAVA-17+-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=238636&labelColor=0d1117&label=⏱️%20LAST%20PUSH" alt="Last Commit"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/commit-activity/m/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=30a14e&labelColor=0d1117&label=📅%20THIS%20MONTH" alt="Monthly Commits"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Leetcode_solutions?style=for-the-badge&color=7bdb80&labelColor=0d1117&label=📦%20SIZE" alt="Repo Size"/>
 
 <br/><br/>
 
-<!-- Dynamic Repo Meta — These auto-update! -->
-<img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=⏱️%20Last%20Commit" alt="Last Commit"/>
-&nbsp;
-<img src="https://img.shields.io/github/commit-activity/w/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=30a14e&labelColor=0d1117&label=📅%20This%20Week" alt="Weekly Commits"/>
-&nbsp;
-<img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=📦%20Size" alt="Repo Size"/>
-&nbsp;
 <img src="https://img.shields.io/github/stars/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=ffce46&labelColor=0d1117&label=⭐%20Stars" alt="Stars"/>
 &nbsp;
 <img src="https://img.shields.io/github/forks/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=7bdb80&labelColor=0d1117&label=🍴%20Forks" alt="Forks"/>
+&nbsp;
+<img src="https://img.shields.io/github/watchers/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=238636&labelColor=0d1117&label=👀%20Watchers" alt="Watchers"/>
+&nbsp;
+<img src="https://img.shields.io/github/commit-activity/w/Ayushgupta0511/Leetcode_solutions?style=flat-square&color=30a14e&labelColor=0d1117&label=🔥%20This%20Week" alt="Weekly"/>
 
 </div>
 
@@ -95,167 +77,78 @@
 <!-- ║                    ABOUT THIS REPO                           ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-## ☕ About This Repository
-
-> **A meticulously organized collection of LeetCode solutions in Java**, built for interview preparation and algorithmic mastery. Every solution is pattern-categorized, clean-coded, and automatically synced via **LeetSync**.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 What's Inside
-
-- 🧩 **Pattern-based organization** — Problems grouped by algorithmic pattern
-- 📁 **Dual structure** — Browse by difficulty OR by pattern
-- 📊 **GRIND 75 & GRIND 100** — Interview prep trackers included
-- 🔄 **Auto-synced** — LeetSync keeps it up to date
-- ☕ **Pure Java** — Clean, readable solutions
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Quick Navigation
-
-| Path | Description |
-|:-----|:------------|
-| [`Java/Easy/`](./LeetCode/Java/Easy/) | Solutions by difficulty |
-| [`Patterns/`](./LeetCode/Patterns/) | Solutions by algorithm pattern |
-| [`GRIND_75.md`](./LeetCode/GRIND_75.md) | Grind 75 progress tracker |
-| [`GRIND_100.md`](./LeetCode/GRIND_100.md) | Grind 100 progress tracker |
-
-</td>
-</tr>
-</table>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                SOLVED PROBLEMS TABLE                         ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## 🗂️ Solved Problems
-
 <div align="center">
 
-| # | Problem | Difficulty | Pattern | Solution |
-|:-:|:--------|:----------:|:--------|:--------:|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/Easy-238636?style=flat-square&labelColor=0d1117) | `Hash Map` `Array` | [☕ Java](./LeetCode/Java/Easy/1.%20Two%20Sum/Solution.java) |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ![Easy](https://img.shields.io/badge/Easy-238636?style=flat-square&labelColor=0d1117) | `Dynamic Programming` `Array` | [☕ Java](./LeetCode/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java) |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ![Easy](https://img.shields.io/badge/Easy-238636?style=flat-square&labelColor=0d1117) | `Two Pointers` `Array` | [☕ Java](./LeetCode/Java/Easy/283.%20Move%20Zeroes/Solution.java) |
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;What's This?
 
 </div>
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdtOG9sNHR5OG55ZTQzcGg1bXZsNjJ0dXFxa3k1bDhlY3RkYWN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="260"/>
+
+```yaml
+repo: Leetcode_solutions
+author: Ayush Gupta
+language: Java ☕
+synced_by: LeetSync 🔄
+organized_by: Difficulty + Pattern
+status: Grinding Daily 🔥
+```
+
+> **My personal LeetCode war-room** 🗡️ — Every problem I crack goes here, auto-synced by **LeetSync**, organized by both **difficulty** and **algorithmic pattern**. No fluff, just clean Java solutions ready for interview day.
+
+<br clear="both"/>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                PATTERNS BREAKDOWN                            ║ -->
+<!-- ║                    EXPLORE THE REPO                          ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## 🧠 Patterns Covered
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🗺️ Hash Map & Hashing
-
-<br/>
-
-![Badge](https://img.shields.io/badge/Solved-1-238636?style=for-the-badge&labelColor=0d1117)
-
-<sub>
-
-| Problem | Link |
-|:--------|:----:|
-| 1. Two Sum | [📂](./LeetCode/Patterns/Hash%20Map%20%26%20Hashing/1.%20Two%20Sum/) |
-
-</sub>
-
-</td>
-<td align="center" width="33%">
-
-### 📈 Dynamic Programming
-
-<br/>
-
-![Badge](https://img.shields.io/badge/Solved-1-238636?style=for-the-badge&labelColor=0d1117)
-
-<sub>
-
-| Problem | Link |
-|:--------|:----:|
-| 121. Buy & Sell Stock | [📂](./LeetCode/Patterns/Dynamic%20Programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/) |
-
-</sub>
-
-</td>
-<td align="center" width="33%">
-
-### 👆 Two Pointers
-
-<br/>
-
-![Badge](https://img.shields.io/badge/Solved-1-238636?style=for-the-badge&labelColor=0d1117)
-
-<sub>
-
-| Problem | Link |
-|:--------|:----:|
-| 283. Move Zeroes | [📂](./LeetCode/Patterns/Two%20Pointers/283.%20Move%20Zeroes/) |
-
-</sub>
-
-</td>
-</tr>
-</table>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Explore
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║               GRIND PROGRESS TRACKERS                        ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## 🎯 Interview Prep Progress
-
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-### 🔥 GRIND 75
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNheXdsMnFqYnZtMm1wbXU0cnk0M3FvcjR3cjRxcXUwcmtiOHdkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kgUkjJSa0tXIBphmfE/giphy.gif" width="80"/><br/><br/>
+<a href="./LeetCode/Java/Easy/">
+  <img src="https://img.shields.io/badge/By_Difficulty-238636?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=7bdb80" alt="Difficulty"/>
+</a><br/>
+<sub>Easy · Medium · Hard</sub>
 
-```
-██░░░░░░░░░░░░░░░░░░  2/75  (2.7%)
-```
+</td>
+<td align="center" width="25%">
 
-**Completed:** Two Sum · Best Time to Buy and Sell Stock
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXYyNGRjYjZhYTdtN2NqcjRzdDd6Z3NkNWVkeHV0c2FhZmdvbG52aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="80"/><br/><br/>
+<a href="./LeetCode/Patterns/">
+  <img src="https://img.shields.io/badge/By_Pattern-7bdb80?style=for-the-badge&labelColor=0d1117&logo=databricks&logoColor=7bdb80" alt="Patterns"/>
+</a><br/>
+<sub>Hash Map · Two Pointers · DP</sub>
 
+</td>
+<td align="center" width="25%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGsxdHJxZGo5c2ExOXZoamRuYmdlZXRxa3BkdHR3YzlteTZ5NXpmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOnt6uqjD9OexmQJRB/giphy.gif" width="80"/><br/><br/>
 <a href="./LeetCode/GRIND_75.md">
-  <img src="https://img.shields.io/badge/View_Full_Checklist-0d1117?style=for-the-badge&logo=github&logoColor=7bdb80" alt="GRIND 75"/>
-</a>
+  <img src="https://img.shields.io/badge/GRIND_75-ffce46?style=for-the-badge&labelColor=0d1117&logo=target&logoColor=ffce46" alt="GRIND 75"/>
+</a><br/>
+<sub>Interview Prep Tracker</sub>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-### 💎 GRIND 100
-
-```
-██░░░░░░░░░░░░░░░░░░  3/100  (3.0%)
-```
-
-**Completed:** Two Sum · Move Zeroes · Best Time to Buy and Sell Stock
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFsbXptNzVpYmdhZjM5ZWlnMGQ3amE2M2YzcGVjNnVtaW84Y2VjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="80"/><br/><br/>
 <a href="./LeetCode/GRIND_100.md">
-  <img src="https://img.shields.io/badge/View_Full_Checklist-0d1117?style=for-the-badge&logo=github&logoColor=7bdb80" alt="GRIND 100"/>
-</a>
+  <img src="https://img.shields.io/badge/GRIND_100-ff6b6b?style=for-the-badge&labelColor=0d1117&logo=target&logoColor=ff6b6b" alt="GRIND 100"/>
+</a><br/>
+<sub>Extended Challenge</sub>
 
 </td>
 </tr>
@@ -267,61 +160,38 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║               DIFFICULTY DISTRIBUTION                        ║ -->
+<!-- ║                    HOW IT WORKS                              ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-## 📊 Difficulty Distribution
+<div align="center">
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ6cWJ2dXBqbjRtdXZuOXUweWh1c28wMnlhNnFoMXJxdHRraGFhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> &nbsp;How It Works
+
+</div>
 
 <div align="center">
 
 ```
-Easy     ███████████████████████████████████  3  (100%)
-Medium   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0  (  0%)
-Hard     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0  (  0%)
-─────────────────────────────────────────────────
-Total                                         3
+   ┌─────────────┐     🔄 Auto-Sync     ┌──────────────────┐
+   │   LeetCode   │ ──────────────────▶  │  This GitHub Repo │
+   │  (I solve)   │     via LeetSync     │  (Updates itself) │
+   └─────────────┘                       └──────────────────┘
+                                                  │
+                          ┌───────────────────────┼───────────────────────┐
+                          ▼                       ▼                       ▼
+                   📂 By Difficulty        🧩 By Pattern           📊 GRIND Trackers
+                    Easy/Med/Hard       HashMap, DP, etc.         75 & 100 checklists
 ```
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║               REPOSITORY STRUCTURE                           ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
 
-## 🏗️ Repository Structure
+> 💡 **Zero maintenance** — I solve on LeetCode, LeetSync pushes to GitHub, everything organizes itself. The GRIND 75 & GRIND 100 checklists update automatically as I solve problems. Just click the links above to explore!
 
-```
-📦 Leetcode_solutions
-├── 📄 README.md                          ← You are here
-├── 🎨 assets/
-│   ├── banner.png                        ← Stitch-designed hero banner
-│   └── banner.html                       ← Interactive Three.js version
-└── 📂 LeetCode/
-    ├── 📊 GRIND_75.md                    ← Interview prep tracker
-    ├── 📊 GRIND_100.md                   ← Extended interview prep
-    ├── ☕ Java/
-    │   ├── 📄 README.md                  ← Auto-generated stats
-    │   └── 🟢 Easy/
-    │       ├── 1. Two Sum/
-    │       │   ├── README.md
-    │       │   └── Solution.java
-    │       ├── 121. Best Time to Buy and Sell Stock/
-    │       │   ├── README.md
-    │       │   └── Solution.java
-    │       └── 283. Move Zeroes/
-    │           ├── README.md
-    │           └── Solution.java
-    └── 🧩 Patterns/
-        ├── Dynamic Programming/
-        │   └── 121. Best Time to Buy and Sell Stock/
-        ├── Hash Map & Hashing/
-        │   └── 1. Two Sum/
-        └── Two Pointers/
-            └── 283. Move Zeroes/
-```
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -330,9 +200,11 @@ Total                                         3
 <!-- ║                    TECH STACK                                ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-## ⚙️ Tech Stack
-
 <div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Built With
+
+<br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark" alt="Tech Stack" />
@@ -340,26 +212,11 @@ Total                                         3
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-  <br/><sub><b>Primary Language</b></sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/LeetSync-238636?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=7bdb80" alt="LeetSync"/>
-  <br/><sub><b>Auto Sync</b></sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&labelColor=0d1117&logo=google&logoColor=4285F4" alt="Stitch"/>
-  <br/><sub><b>Banner Design</b></sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&labelColor=0d1117&logo=threedotjs&logoColor=ffffff" alt="Three.js"/>
-  <br/><sub><b>Banner Animation</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LeetSync-238636?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=7bdb80" alt="LeetSync"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&labelColor=0d1117&logo=google&logoColor=4285F4" alt="Stitch"/>
 
 </div>
 
@@ -367,27 +224,29 @@ Total                                         3
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   QUICK LINKS                                ║ -->
+<!-- ║                   CONNECT                                    ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## 🔗 Quick Links
 
 <div align="center">
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
+
+<br/>
+
 <a href="https://leetcode.com/Ayushgupta0511/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode_Profile-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffce46" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
 </a>
 &nbsp;
 <a href="https://github.com/Ayushgupta0511" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub_Profile-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ayush-gupta0511/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="./assets/banner.html" target="_blank">
-  <img src="https://img.shields.io/badge/🎨_View_Animated_Banner-0d1117?style=for-the-badge" alt="Animated Banner"/>
+<a href="mailto:ayushjai0511@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
@@ -403,16 +262,14 @@ Total                                         3
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=238636&center=true&vCenter=true&repeat=true&width=550&lines=New+solutions+added+regularly+%E2%98%95;Star+%E2%AD%90+if+this+helps+your+prep!;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=238636&center=true&vCenter=true&repeat=true&width=550&lines=Solve.+Commit.+Repeat.+%E2%98%95;Star+%E2%AD%90+if+this+helps+your+prep!;See+you+on+the+leaderboard+%F0%9F%9A%80" alt="Footer Typing SVG" />
 
 <br/><br/>
 
-<!-- Made with Love -->
 <img src="https://img.shields.io/badge/Made_with-☕_Java_and_❤️-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-<!-- Animated Bottom Wave — Stitch Design System Colors -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7bdb80,20:238636,40:1a2025,60:161c21,80:0e1418,100:0d1117&height=120&section=footer&animation=twinkling"/>
 
 </div>
@@ -420,5 +277,5 @@ Total                                         3
 <!-- ═══════════════════════════════════════════════════════════════════════════════
      Built with ☕ by Ayush Gupta
      Banner designed in Google Stitch · Animated with Three.js
-     Auto-synced via LeetSync
+     Auto-synced via LeetSync — zero maintenance README
      ═══════════════════════════════════════════════════════════════════════════════ -->
