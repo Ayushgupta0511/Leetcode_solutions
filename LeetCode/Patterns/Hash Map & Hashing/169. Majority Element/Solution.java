@@ -9,7 +9,7 @@ class Solution {
           table.put(ex , table.getOrDefault(ex , 0) + 1);
         }
         for(int key : table.keySet()){
-            if(table.get(key) == target){
+            if(table.get(key) >= target){
                 ans = key;
             }
         }
