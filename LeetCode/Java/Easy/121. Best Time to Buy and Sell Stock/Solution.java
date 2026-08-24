@@ -1,24 +1,16 @@
 class Solution {
-    public int maxProfit(int[] nums) {
-        int ans =0;
-        int min = nums[0];
+    public int maxProfit(int[] prices) {
         int max = 0;
-        int target = 0;
-        for(int i=1;i<nums.length-1;i++){
-            if(nums[i] < min){
-                min = nums[i];
-                target = i;
+        int ans = 0;
+        for(int i =0;i<prices.length;i++){
+            for(int k = i+1;k<prices.length;k++){
+                ans = prices[k] - prices[i];
+                if(ans > max){
+                    max = ans;
+                }
+                // else { max =0;}
             }
         }
-        for(int k=target;k<nums.length;k++){
-            if(nums[k] > max){
-                max = nums[k];
-            }
-        }
-        ans = max - min;
-        if(target == nums.length -1){
-                ans = 0;
-            }
-        return ans;
+        return max;
     }
 }
