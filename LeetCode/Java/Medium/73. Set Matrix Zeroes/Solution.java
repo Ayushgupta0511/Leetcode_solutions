@@ -16,7 +16,7 @@ class Solution {
             }
         }
         for(int l : column){
-            for(int j=0;j<matrix.length[0];j++){
+            for(int j=0;j<matrix.length;j++){
                 matrix[j][l] = 0;
             }
         }
