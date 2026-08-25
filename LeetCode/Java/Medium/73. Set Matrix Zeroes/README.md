@@ -1,6 +1,6 @@
 # 📝 73. Set Matrix Zeroes (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/set-matrix-zeroes)
+🔗 [Problem Link](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Matrix
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 47.6 MB
 
 ---
 
