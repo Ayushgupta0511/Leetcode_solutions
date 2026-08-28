@@ -1,7 +1,5 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        ArrayList<Integer> list1 = new ArrayList<>();
-        ArrayList<Integer> list2 = new ArrayList<>();
         int[] array = new int[nums.length];
         int even =0;
         int odd=1;
