@@ -9,15 +9,9 @@ class Solution {
             }
             else if(target > nums[mid]){
                 low = mid+1;
-                // if(low == high){
-                //     return low+1;
-                // }
             }
             else {
                 high = mid-1;
-                // if(low == high){
-                //     return low+1;
-                // }
             }
         }
         return low;
