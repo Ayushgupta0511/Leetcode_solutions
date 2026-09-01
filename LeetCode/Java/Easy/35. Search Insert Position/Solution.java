@@ -16,7 +16,7 @@ class Solution {
             else {
                 high = mid-1;
                 if(low == high){
-                    return low -1;
+                    return low;
                 }
             }
         }
