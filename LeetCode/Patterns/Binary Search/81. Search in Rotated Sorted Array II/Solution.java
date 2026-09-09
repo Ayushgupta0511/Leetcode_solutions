@@ -1,8 +1,24 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        for(int i =0;i<nums.length;i++){
-            if(target == nums[i]){
+        int low = 0;
+        int high = nums.length-1;
+        
+        while(low <= high){
+            int mid = low + (high - low)/2;
+            if(target == nums[mid]){
                 return true;
+            }
+            if(nums[low] <= nums[mid]){
+                high = mid-1;
+                low++;
+            }
+            else {
+                if(nums[mid] <= target && target <= nums[high]){
+                    low = mid+1;
+                }
+                else {
+                    high = mid+1;
+                }
             }
         }
         return false;
