@@ -9,7 +9,7 @@ class Solution {
                 ans =  nums[i];
             }
         }
-        if(nums.length ==1){
+        if(nums.length ==1 ){
             ans = nums[0];
         }
         return ans;
