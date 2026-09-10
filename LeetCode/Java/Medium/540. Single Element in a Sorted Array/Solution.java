@@ -9,6 +9,7 @@ class Solution {
                 ans =  nums[i];
             }
         }
+        i
         return ans;
     }
 }
