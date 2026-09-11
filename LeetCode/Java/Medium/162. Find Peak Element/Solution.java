@@ -4,10 +4,10 @@ class Solution {
         int high = nums.length -2;
         int ans = nums[0];
         if(nums.length == 1){
-            ans = nums[0];
+            return 0;
         }
         if(nums[nums.length-1] > nums[nums.length-2] && nums[0] <= nums[1]){
-            ans = nums[nums.length-1];
+            ans = nums.length-1;
         }
         while(low <= high){
             int mid = low + (high - low)/2;
@@ -18,6 +18,6 @@ class Solution {
                 low = mid+1;
             }
         }
-        return ans;
+        return -1;
     }
 }
