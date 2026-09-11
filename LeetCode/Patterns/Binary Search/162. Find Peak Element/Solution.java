@@ -3,7 +3,9 @@ class Solution {
         int low = 1;
         int high = nums.length -2;
         int ans = nums[0];
-        int 
+        if(nums.length == 1){
+            ans = nums[0];
+        }
         if(nums[nums.length-1] > nums[nums.length-2] && nums[0] <= nums[1]){
             ans = nums[nums.length-1];
         }
