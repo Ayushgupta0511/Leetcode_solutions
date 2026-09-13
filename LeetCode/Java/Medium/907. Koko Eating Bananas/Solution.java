@@ -1,6 +1,6 @@
 class Solution {
- public int bananas(int[] piles, int mid){
-    int hours = 0;{
+ public long bananas(int[] piles, int mid){
+    long hours = 0;{
         for(int i =0;i<piles.length;i++){
             hours = hours + (piles[i] + mid -1)/mid;
         }
@@ -11,7 +11,7 @@ class Solution {
         int low =1;
         int high = Arrays.stream(piles).max().getAsInt();
         int ans = Integer.MAX_VALUE;
-        int hours =0;
+        long hours =0;
         while(low<=high){
             int mid = low + (high - low)/2;
             hours = bananas(piles , mid);
