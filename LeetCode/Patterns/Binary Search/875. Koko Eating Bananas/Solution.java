@@ -11,7 +11,7 @@ class Solution {
         int low =1;
         int high = Arrays.stream(piles).max().getAsInt();
         int ans = Integer.MAX_VALUE;
-        int hours =0;
+        long hours =0;
         while(low<=high){
             int mid = low + (high - low)/2;
             hours = bananas(piles , mid);
