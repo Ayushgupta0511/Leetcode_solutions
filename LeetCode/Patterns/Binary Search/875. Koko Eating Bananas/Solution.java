@@ -1,6 +1,6 @@
 class Solution {
  public int bananas(int[] piles, int mid){
-    int hours = 0;{
+    long hours = 0;{
         for(int i =0;i<piles.length;i++){
             hours = hours + (piles[i] + mid -1)/mid;
         }
