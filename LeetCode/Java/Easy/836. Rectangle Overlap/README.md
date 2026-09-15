@@ -1,6 +1,6 @@
 # 📝 836. Rectangle Overlap (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/rectangle-overlap/?envType=daily-question&envId=2026-09-14)
+🔗 [Problem Link](https://leetcode.com/problems/rectangle-overlap)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
