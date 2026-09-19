@@ -20,7 +20,7 @@ class Solution {
         int low = Arrays.stream(bloomDay).min().getAsInt();
         int high = Arrays.stream(bloomDay).max().getAsInt();
         int p = high;
-        if(m*k > tf){
+        if( (long) m*k > tf){
             return -1;
         }
          while(low <= high){
