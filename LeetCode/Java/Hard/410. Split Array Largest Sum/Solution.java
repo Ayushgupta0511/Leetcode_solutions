@@ -2,8 +2,6 @@ class Solution {
     public int splitArray(int[] nums, int k) {
         int low = Arrays.stream(nums).max().getAsInt();
         int high  = 0;
-        int highest =0;
-        int mid =0;
         for(int i =0;i<nums.length;i++){
              high = high  + nums[i];
         }
@@ -11,13 +9,9 @@ class Solution {
             mid = low + (high - low)/2;
             int basket =0;
             int counter =1;
-            highest = 0;
             for(int i =0;i<nums.length;i++){
                 if(basket + nums[i] <= mid){
-                    basket = nums[i] + basket;
-                    if(highest < basket){
-                        highest = basket;
-                    }    
+                    basket = nums[i] + basket; 
                 }
                 else {
                     counter++;
