@@ -22,7 +22,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Trapping Rain Water
 
 ### 📂 Two Pointers & Hashing
-- [x] [Search a 2D Matrix](./C++/Medium/74. Search a 2D Matrix/)
+- [x] [Search a 2D Matrix](./Java/Medium/74. Search a 2D Matrix/)
 - [ ] Pow(x, n)
 - [ ] Majority Element
 - [ ] Majority Element II

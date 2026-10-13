@@ -78,7 +78,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Combination Sum
 - [ ] Word Search
 - [ ] Generate Parentheses
-- [x] [Search a 2D Matrix](./C++/Medium/74. Search a 2D Matrix/)
+- [x] [Search a 2D Matrix](./Java/Medium/74. Search a 2D Matrix/)
 - [x] [Search a 2D Matrix II](./Java/Medium/240. Search a 2D Matrix II/)
 - [x] [Search in Rotated Sorted Array](./Java/Medium/33. Search in Rotated Sorted Array/)
 - [x] [Find First and Last Position of Element in Sorted Array](./Java/Medium/34. Find First and Last Position of Element in Sorted Array/)
