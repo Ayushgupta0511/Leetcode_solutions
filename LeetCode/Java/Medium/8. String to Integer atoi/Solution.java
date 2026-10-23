@@ -20,7 +20,6 @@ class Solution {
             num = num * 10 + Digit;
             i++;
         }
-
         return num * sign;
     }
 }
