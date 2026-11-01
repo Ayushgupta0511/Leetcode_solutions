@@ -8,8 +8,8 @@
 Math, Recursion
 
 ### 🚀 Performance
-- **Runtime:** 1 ms
-- **Memory:** 48 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
