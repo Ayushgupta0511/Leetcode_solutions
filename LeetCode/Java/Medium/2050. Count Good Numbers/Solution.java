@@ -1,5 +1,6 @@
 class Solution {
     static long findpower(int a, long b){
+        long MOD = 1000000007L;
         long result = 0;
         if(b==0){
             return 1;
