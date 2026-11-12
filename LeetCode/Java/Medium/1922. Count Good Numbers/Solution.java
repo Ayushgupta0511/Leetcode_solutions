@@ -5,7 +5,7 @@ class Solution {
             return 1;
         }
         long half = findpower(a,b/2);
-        result = half * half;
+        result = half * half % ;
         if(b % 2 ==1){
             result = result * a;
         }
