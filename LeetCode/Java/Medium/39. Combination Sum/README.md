@@ -21,7 +21,7 @@ The  **same**  number may be chosen from  `candidates`  an  **unlimited number o
 
 The test cases are generated such that the number of unique combinations that sum up to  `target`  is less than  `150`  combinations for the given input.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: candidates = [2,3,6,7], target = 7
