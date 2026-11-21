@@ -11,9 +11,6 @@ class Solution {
         if(candidates[index] <= target){
             sumstring(index,parent,sum,candidates,target - candidates[index],list);
         }
-        // if(sum > target) {
-        //     sumstring(index+1,parent,sum,candidates,target,list);
-        // }
         list.remove(list.size()-1);
         sum = sum - candidates[index];
         sumstring(index+1,parent,sum,candidates,target,list);
@@ -24,6 +21,9 @@ class Solution {
         List<List<Integer>> parent = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
         sumstring(index,parent,sum,candidates,target,list);
-        return parent;
+        List<List<Integer>> result = new ArrayList<>();
+        Set<List<Integer>> set = new HashSet<>(parent);
+        result.addAll(set);
+        return result;
     }
 }
