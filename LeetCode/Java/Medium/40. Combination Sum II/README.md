@@ -1,6 +1,6 @@
 # 📝 40. Combination Sum II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/combination-sum-ii)
+🔗 [Problem Link](https://leetcode.com/problems/combination-sum-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 44.8 MB
 
 ---
 
@@ -21,7 +21,7 @@ Each number in  `candidates`  may only be used  **once**  in the combination.
 
 **Note:**  The solution set must not contain duplicate combinations.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: candidates = [10,1,2,7,6,1,5], target = 8
