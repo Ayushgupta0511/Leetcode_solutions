@@ -1,6 +1,6 @@
 # 📝 90. Subsets II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/subsets-ii/)
+🔗 [Problem Link](https://leetcode.com/problems/subsets-ii/solutions/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -19,7 +19,7 @@ Given an integer array  `nums`  that may contain duplicates, return  *all possib
 
 The solution set  **must not**  contain duplicate subsets. Return the solution in  **any order** .
 
-**Example 1:**
+OriginalJava **Example 1:**
 
 ```
 Input: nums = [1,2,2]
