@@ -1,17 +1,20 @@
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length;
-        List<List<Integer>> ans = new ArrayList<>();
-        for(int i=1;i<= Math.pow(2,n);i++){
-            List<Integer> temp = new ArrayList<>();
-            for(int k =0;k <= n-1;k++){
-                if((i & (1 << k)) != 0){
-                temp.add(nums[k]);
-                }
-            } 
-            ans.add(temp);
-            
+    public static void subsetcount(List<Integer> list , int index, List<List<Integer>> parent, int[] nums){
+        if(index == nums.length){
+            parent.add(new ArrayList<>(list));
+            return;
         }
-        return ans;
+        list.add(nums[index]);
+        subsetcount(list,index+1,parent,nums);
+        list.remove(list.size()-1);
+        subsetcount(list,index+1,parent,nums);
+    }
+    public List<List<Integer>> subsets(int[] nums) {
+        List<Integer> list = new ArrayList<>();
+        List<List<Integer>> parent = new ArrayList<>();
+        HashSet<Integer> set = new HashSet<>();
+        int index = 0;
+        subsetcount(list,index,parent,nums);
+        return parent;
     }
 }
