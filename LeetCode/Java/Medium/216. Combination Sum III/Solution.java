@@ -4,16 +4,18 @@ class Solution {
         if(list.size() == k){
             if(sum == n){
                 parent.add(new ArrayList(list));
-                return;
             }
+            return;
         }
         if(index < 9){
+            if(list.size() <= k) {
         sum = sum + arr[index];
         list.add(arr[index]);
         count(index+1,list,sum,k,n , parent);
         sum = sum - arr[index];
         list.remove(list.size()-1);
         count(index+1,list,sum,k,n , parent);
+            }
         }
     }
 
