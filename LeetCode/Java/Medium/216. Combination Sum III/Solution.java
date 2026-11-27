@@ -4,8 +4,8 @@ class Solution {
         if(list.size() == k){
             if(sum == n){
                 parent.add(new ArrayList(list));
-                return;
             }
+            return;
         }
         if(index < 9){
             if(list.size() <= k) {
