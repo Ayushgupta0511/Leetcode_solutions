@@ -21,7 +21,7 @@ A mapping of digits to letters (just like on the telephone buttons) is given bel
 
  ![image](https://assets.leetcode.com/uploads/2022/03/15/1200px-telephone-keypad2svg.png) 
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: digits = "23"
